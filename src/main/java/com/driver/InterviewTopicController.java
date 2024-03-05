@@ -26,7 +26,6 @@ public class InterviewTopicController {
     @GetMapping
     public List<InterviewTopic> getAllTopics() {
     	// your code goes here
-	    return topics;
         return topics;
     }
 
